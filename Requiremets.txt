@@ -1,0 +1,13 @@
+
+---
+
+# ✅ **requirements.txt **
+
+Based on your script:
+
+```txt
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
